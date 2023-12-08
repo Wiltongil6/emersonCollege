@@ -1,0 +1,96 @@
+body{margin: 0px;}
+header{position: absolute;}
+li{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    font-family: "Avenir Next Var","Lucida Grande",Helvetica,sans-serif;
+    font-weight: 550;
+}
+
+ul{ 
+    text-align: left;
+    display: inline-block;
+    margin-left: 100px;
+    
+}
+.header-right{
+    text-align: right;
+    display: inline;
+    font-size: 15px;
+        
+}
+.left {
+    background-color: rgba(0, 0, 0, 0.493);
+    width: 50%;
+    height: 900px;
+    margin: 0px;
+    display: inline;
+    float: left;
+
+}
+hr{margin-left: 150px;
+}
+.right{
+    background-color: blueviolet;
+    height: 900px;
+    width: 60px;
+    float: right;   
+}
+.social{ 
+    margin-top: 240px;
+    padding-bottom: 550px ;
+}
+
+.logo h1{
+    font-size: 60px;
+    color: white;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    padding-left: 150px;
+
+}
+section h3{padding-left: 150px;
+    color: white;
+    margin: 0;
+    margin-bottom: 15px;
+}
+section h1{padding-left: 150px;
+    color: #fff;
+    font-size: 40px;
+    margin: 0;
+    margin-bottom: 15px;
+}
+section h2{padding-left: 150px;
+    color: #fff;
+    font-size: 20px;
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+footer{border: 2px black solid;
+background-color: #fff;
+position:fixed;
+top: 75%;
+left: 68%; 
+right: 60px; 
+display: inline;
+}
+img{margin: 15px;
+    float: left;
+}
+
+footer span{
+    margin: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family:"Avenir Next Var","Lucida Grande",Helvetica,sans-serif;
+}
+
+body{ 
+    background-image: url(../img/main-img.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
